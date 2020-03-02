@@ -4,6 +4,7 @@ const app = express();//top-level function of express
 const path = require('path');
 const apiData = require('./people.json');
 const cars = require('./cars.json');
+const carSort = require('./cars.json');
 
 const port = 3000;
 
@@ -70,13 +71,13 @@ app.get('/cars/make=:make&model=:model',(req,res)=>{
     res.send(filteredArray);
 });
 
-app.get('/cars/year=:year&credit=:credit',(req,res)=>{
+app.get('/carSort/year=:year&credit=:credit',(req,res)=>{
   const yearParam = req.params.year;
   const creditParam = req.params.credit; //retrieves the parameter value requested by the user
 
     let carsFilteredArray = []; //array to push the matching objects to user's value
-    for (let i = 0; i < cars.length; i++) {
-      if ((yearParam.toLowerCase() === cars[i].car_year.toLowerCase()) && (creditParam.toLowerCase() === cars[i].car_credit.toLowerCase())){
+    for (let i = 0; i < carSort.length; i++) {
+      if ((yearParam.toLowerCase() === carSort[i].car_year.toLowerCase()) && (creditParam.toLowerCase() === carSort[i].car_credit.toLowerCase())){
         carsFilteredArray.push(cars[i]);
       }
     }
