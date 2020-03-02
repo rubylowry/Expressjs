@@ -1,0 +1,218 @@
+[{
+  "id": 1,
+  "car_make": "Kia",
+  "car_model": "Spectra",
+  "car_year": 2004,
+  "car_credit": "jcb",
+  "car_vin": "WBAYF8C55ED614725"
+}, {
+  "id": 2,
+  "car_make": "Buick",
+  "car_model": "Regal",
+  "car_year": 2004,
+  "car_credit": "jcb",
+  "car_vin": "WAUGL78E17A524953"
+}, {
+  "id": 3,
+  "car_make": "Ford",
+  "car_model": "Escort",
+  "car_year": 2000,
+  "car_credit": "jcb",
+  "car_vin": "WA1YD54B72N770986"
+}, {
+  "id": 4,
+  "car_make": "Isuzu",
+  "car_model": "Rodeo Sport",
+  "car_year": 2002,
+  "car_credit": "jcb",
+  "car_vin": "5LMJJ2H55EE443227"
+}, {
+  "id": 5,
+  "car_make": "Infiniti",
+  "car_model": "G",
+  "car_year": 1992,
+  "car_credit": "diners-club-enroute",
+  "car_vin": "2C3CCAFJ6DH593332"
+}, {
+  "id": 6,
+  "car_make": "Lexus",
+  "car_model": "SC",
+  "car_year": 2002,
+  "car_credit": "jcb",
+  "car_vin": "WDDPK4HA1FF089330"
+}, {
+  "id": 7,
+  "car_make": "Audi",
+  "car_model": "S6",
+  "car_year": 2003,
+  "car_credit": "jcb",
+  "car_vin": "JN8AF5MR7DT767586"
+}, {
+  "id": 8,
+  "car_make": "GMC",
+  "car_model": "Savana 1500",
+  "car_year": 1996,
+  "car_credit": "switch",
+  "car_vin": "1FTMF1EW4AK985084"
+}, {
+  "id": 9,
+  "car_make": "BMW",
+  "car_model": "7 Series",
+  "car_year": 2001,
+  "car_credit": "laser",
+  "car_vin": "1G6KD54Y84U327371"
+}, {
+  "id": 10,
+  "car_make": "Volvo",
+  "car_model": "XC90",
+  "car_year": 2004,
+  "car_credit": "jcb",
+  "car_vin": "WAUFFBFL1CA047913"
+}, {
+  "id": 11,
+  "car_make": "Honda",
+  "car_model": "Element",
+  "car_year": 2009,
+  "car_credit": "switch",
+  "car_vin": "KMHHU6KJ4FU096177"
+}, {
+  "id": 12,
+  "car_make": "Ford",
+  "car_model": "Escape",
+  "car_year": 2001,
+  "car_credit": "jcb",
+  "car_vin": "2T1KU4EE6BC948601"
+}, {
+  "id": 13,
+  "car_make": "Holden",
+  "car_model": "VS Commodore",
+  "car_year": 1996,
+  "car_credit": "switch",
+  "car_vin": "1FTEW1C8XAF040173"
+}, {
+  "id": 14,
+  "car_make": "Dodge",
+  "car_model": "Daytona",
+  "car_year": 1992,
+  "car_credit": "jcb",
+  "car_vin": "SCBFC7ZA2EC156989"
+}, {
+  "id": 15,
+  "car_make": "Nissan",
+  "car_model": "Frontier",
+  "car_year": 2001,
+  "car_credit": "jcb",
+  "car_vin": "WAUDF78E68A227852"
+}, {
+  "id": 16,
+  "car_make": "Ford",
+  "car_model": "Mustang",
+  "car_year": 1988,
+  "car_credit": "solo",
+  "car_vin": "WBA5A7C55FD204035"
+}, {
+  "id": 17,
+  "car_make": "Nissan",
+  "car_model": "Titan",
+  "car_year": 2012,
+  "car_credit": "jcb",
+  "car_vin": "WBA3A5G57FN711390"
+}, {
+  "id": 18,
+  "car_make": "Buick",
+  "car_model": "Century",
+  "car_year": 2001,
+  "car_credit": "jcb",
+  "car_vin": "JTDKTUD32ED292536"
+}, {
+  "id": 19,
+  "car_make": "Kia",
+  "car_model": "Forte",
+  "car_year": 2010,
+  "car_credit": "jcb",
+  "car_vin": "WAUFFBFL1CA326343"
+}, {
+  "id": 20,
+  "car_make": "Chevrolet",
+  "car_model": "Express 1500",
+  "car_year": 2000,
+  "car_credit": "visa-electron",
+  "car_vin": "WAUHGBFC4CN530293"
+}, {
+  "id": 21,
+  "car_make": "Toyota",
+  "car_model": "4Runner",
+  "car_year": 2000,
+  "car_credit": "maestro",
+  "car_vin": "WAUAVAFD6CN182846"
+}, {
+  "id": 22,
+  "car_make": "Mercedes-Benz",
+  "car_model": "SLR McLaren",
+  "car_year": 2005,
+  "car_credit": "maestro",
+  "car_vin": "1G6AL1R30F0552964"
+}, {
+  "id": 23,
+  "car_make": "Acura",
+  "car_model": "NSX",
+  "car_year": 2004,
+  "car_credit": "jcb",
+  "car_vin": "1HGCR2F31FA646054"
+}, {
+  "id": 24,
+  "car_make": "BMW",
+  "car_model": "X5",
+  "car_year": 2003,
+  "car_credit": "visa-electron",
+  "car_vin": "WA1VMBFE9DD204104"
+}, {
+  "id": 25,
+  "car_make": "Maserati",
+  "car_model": "Quattroporte",
+  "car_year": 2009,
+  "car_credit": "mastercard",
+  "car_vin": "1G6DL1ED9B0578257"
+}, {
+  "id": 26,
+  "car_make": "Ford",
+  "car_model": "Escape",
+  "car_year": 2003,
+  "car_credit": "switch",
+  "car_vin": "YV4902DZ4C2884543"
+}, {
+  "id": 27,
+  "car_make": "Chevrolet",
+  "car_model": "Corvette",
+  "car_year": 2011,
+  "car_credit": "jcb",
+  "car_vin": "5N1AR1NB4CC935384"
+}, {
+  "id": 28,
+  "car_make": "Chevrolet",
+  "car_model": "Suburban 1500",
+  "car_year": 2012,
+  "car_credit": "mastercard",
+  "car_vin": "2T1BURHE4EC326592"
+}, {
+  "id": 29,
+  "car_make": "Pontiac",
+  "car_model": "Grand Prix",
+  "car_year": 1977,
+  "car_credit": "switch",
+  "car_vin": "JTHBL1EF3E5939235"
+}, {
+  "id": 30,
+  "car_make": "Buick",
+  "car_model": "Skyhawk",
+  "car_year": 1987,
+  "car_credit": "diners-club-carte-blanche",
+  "car_vin": "SCFEBBBCXAG447691"
+}, {
+  "id": 31,
+  "car_make": "Suzuki",
+  "car_model": "Forenza",
+  "car_year": 2004,
+  "car_credit": "switch",
+  "car_vin": "JH4DC53803C126867"
+}]

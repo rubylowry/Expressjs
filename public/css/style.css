@@ -1,0 +1,32 @@
+body{
+  background-color: #FFDAD2;
+}
+
+.home-title {
+  color: #FFA38F;
+  text-align: center;
+}
+
+.home-header{
+  color: #B37264;
+  text-align: center;
+  font-size: 14px;
+}
+
+.home-para{
+  color: #B37264;
+  text-align: center;
+  font-size: 12px;
+}
+
+.home-image{
+  margin-left: 800px;
+}
+
+.home-imageTwo{
+  margin-left: 800px;
+}
+
+.home-imageThree{
+  margin-left: 600px;
+}
